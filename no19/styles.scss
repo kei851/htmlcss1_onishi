@@ -1,0 +1,11 @@
+.box{
+  background-color: #fce9ae;
+  width: 150px;
+  height: 150px;
+  animation: rotation 5s;
+}
+
+@keyframes rotation{
+  0%{ transform: rotate(0); }
+  100%{ transform: rotate(360deg); }
+}
