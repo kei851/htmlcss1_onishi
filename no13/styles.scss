@@ -1,0 +1,10 @@
+.detailBtn{
+  background-color: #FFFFFF;
+  border: solid 2px #FFB514;
+
+  &:hover{
+    background-color: #FFB514;
+    color: #FFFFFF;
+    cursor: pointer;
+  }
+}
