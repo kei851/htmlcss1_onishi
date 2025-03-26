@@ -1,0 +1,10 @@
+.box {
+  background-color: #fce9ae;
+  width: 150px;
+  height: 150px;
+}
+.box:hover {
+  background-color: #b7fcae;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,11 @@
+.detailBtn {
+  background-color: #FFFFFF;
+  border: solid 2px #FFB514;
+}
+.detailBtn:hover {
+  background-color: #FFB514;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=styles.css.map */

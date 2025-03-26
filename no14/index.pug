@@ -1,0 +1,13 @@
+doctype html 
+html
+  head 
+    link(rel="stylesheet" href="styles.css")
+  body
+    input#apple.checkBox(name="fruit", type="checkbox")
+    label.fruitLabel(for="apple") りんご
+    input#orange.checkBox(name="fruit", type="checkbox")
+    label.fruitLabel(for="orange") みかん
+    input#peach.checkBox(name="fruit", type="checkbox")
+    label.fruitLabel(for="peach") もも
+
+//- 与えられたHTMLはtype="radio"であるが、期待される画面は"checkbox"のため、期待される画面に合うように変更している

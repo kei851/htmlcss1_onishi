@@ -1,0 +1,9 @@
+.box {
+  background-color: #fce9ae;
+  width: 150px;
+  height: 150px;
+  white-space: nowrap;
+  overflow: scroll;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #808080
+}
+
+.headerRow {
+  color: #5998CA;
+}
+
+.bodyRow:nth-child(odd) {
+  background-color: #EBFAFC;
+}
